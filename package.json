@@ -44,7 +44,7 @@
 		"commander": "2.19.0",
 		"deep-diff": "1.0.2",
 		"lisk-commander": "2.2.0",
-		"lisk-sdk": "https://github.com/hughestech/lisk-sdk.git",
+		"lisk-sdk": "hughestech/lisk-sdk.git#master",
 		"lodash": "4.17.11",
 		"moment": "2.23.0",
 		"pm2": "3.5.0",
