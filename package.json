@@ -32,7 +32,7 @@
 		"lint:fix": "tslint --fix --project .",
 		"format": "prettier --write '**/*'",
 		"prebuild": "if test -d dist; then rm -r dist; fi",
-		"build": "tsc",
+		"build": "npm install && tsc",
 		"test": "mocha test"
 	},
 	"dependencies": {
