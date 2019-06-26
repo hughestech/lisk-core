@@ -3,7 +3,7 @@
 		"forceConsistentCasingInFileNames": true,
 		"target": "es2017",
 		"module": "commonjs",
-		"moduleResolution": "node",
+		"moduleResolution": "classic",
 		"newLine": "lf",
 		"noFallthroughCasesInSwitch": true,
 		"noImplicitReturns": true,
