@@ -1,4 +1,5 @@
-import { Application } from 'lisk-sdk';
+//import { Application } from 'lisk-sdk';
+var Application = require("lisk-sdk");
 import {
 	DappTransaction,
 	InTransferTransaction,

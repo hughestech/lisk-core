@@ -1,4 +1,5 @@
-import { configurator } from 'lisk-sdk';
+//import { configurator } from 'lisk-sdk';
+var configurator = require("lisk-sdk");
 import path from 'path';
 import { getBuildVersion } from './build';
 import { getLastCommitId } from './git';
